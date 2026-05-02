@@ -1,2 +1,14 @@
-# Air-Traffic_Data-Exploration
-A project where the program collects and describes the data found in the given dataset. 
+# Data Exploration | CSIS 344
+
+## Topic
+
+Air Traffic Passenger Statistics
+
+## Data Source(s)
+
+* [Data.gov](https://catalog.data.gov/dataset/air-traffic-passenger-statistics)
+
+
+## Brief Description
+
+Information about all flights with passenger count, airline, geo region, date, terminal, and boarding area in San Francisco International Airport
